@@ -12021,3 +12021,6 @@ td, th {
 tr:nth-child(even) {
   background-color: #f1f1f1;
 }
+.img{
+  border-radius: 50%;
+}
